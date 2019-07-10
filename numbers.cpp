@@ -1,4 +1,5 @@
 // Implementation of Class numbers
+// New comment
 #include "numbers.h"
 using namespace numbers;
 
